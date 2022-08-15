@@ -5,4 +5,4 @@ Text summarization is the process of automatically generating natural language s
 
 During implementation a 3 Layer Stacked LSTM Encoder-Decoder model with Global Attention Mechanism was used. With this model I was able to get an accuracy of 65.89% on training set (constituting 80% of the dataset).
 
-Dataset: <link url="https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download">Abstract-Text-Summarization</link>
+Dataset: "https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download"
