@@ -1,11 +1,11 @@
-<b>Dog Breed Classification Project</b>
+<h1>Dog Breed Classification Project</h1>
 
 For Dog Breed Classification, we have used the TensorFlow to build a Convolutional Neural Network that will help you to identify the breed of a dog from its image.
 In the process, we will use Transfer Learning and learn how to design, train and test models with the provided dataset.
 Achieved an accuracy of 73% using VGG-16 and Transfer learning.
 
 
-Dataset: <link url="https://www.kaggle.com/c/dog-breed-identification/data">Dog Dataset</link>
+Dataset: "https://www.kaggle.com/c/dog-breed-identification/data"
 
 File descriptions
 <ul>
